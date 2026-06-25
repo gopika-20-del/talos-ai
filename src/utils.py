@@ -35,17 +35,42 @@ def find_data_dir():
         
     raise FileNotFoundError("Could not locate outputs/top_100_candidates.csv in workspace.")
 
+def get_candidates_file():
+    """
+    Returns the path to candidates.jsonl or falls back to sample_candidates.jsonl.
+    """
+    try:
+        data_dir = find_data_dir()
+        candidates_file = data_dir / "candidates.jsonl"
+        if candidates_file.exists():
+            return candidates_file
+    except Exception:
+        pass
+        
+    # Check for sample_candidates.jsonl in current directory or workspace root
+    paths_to_check = [
+        Path("./sample_candidates.jsonl"),
+        Path("../sample_candidates.jsonl"),
+        Path("C:/Users/Gopika Arasi/OneDrive/Documents/Desktop/indiarun/sample_candidates.jsonl")
+    ]
+    for p in paths_to_check:
+        if p.exists():
+            return p.resolve()
+            
+    # Recursive search as last resort
+    for p in Path(".").rglob("sample_candidates.jsonl"):
+        return p.resolve()
+        
+    raise FileNotFoundError("Neither candidates.jsonl nor sample_candidates.jsonl could be found.")
+
 def load_candidates(limit=None):
     """
     Memory-efficient generator that yields candidate profiles one by one.
     """
     try:
-        data_dir = find_data_dir()
-        candidates_file = data_dir / "candidates.jsonl"
-        if not candidates_file.exists():
-            raise FileNotFoundError("candidates.jsonl file not found.")
+        candidates_file = get_candidates_file()
     except FileNotFoundError:
-        logger.warning("candidates.jsonl not found. Load candidates generator is disabled.")
+        logger.warning("No candidate database file found. Load candidates generator is disabled.")
         return
     
     logger.info(f"Loading candidates from {candidates_file}")
@@ -64,8 +89,11 @@ def get_candidates_count():
     """
     Returns the total number of candidates.
     """
-    data_dir = find_data_dir()
-    candidates_file = data_dir / "candidates.jsonl"
+    try:
+        candidates_file = get_candidates_file()
+    except FileNotFoundError:
+        return 0
+        
     count = 0
     with open(candidates_file, "r", encoding="utf-8") as f:
         for line in f:

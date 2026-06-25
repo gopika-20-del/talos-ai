@@ -1587,6 +1587,14 @@ elif st.session_state.current_page == "Candidate Search":
             loc_pref = st.multiselect("Preferred Locations:", ["Pune", "Noida", "Bangalore", "Delhi NCR", "Mumbai", "Hyderabad", "Bengaluru", "Gurugram"], ["Pune", "Noida"])
         
         search_btn = st.button("Run Search Query", use_container_width=True)
+        
+        # Add sandbox indicator caption
+        try:
+            from src.utils import find_data_dir
+            if not (find_data_dir() / "candidates.jsonl").exists():
+                st.caption("ℹ️ **Cloud Sandbox Mode**: Search is enabled across the pre-loaded **50 sample candidates**.")
+        except Exception:
+            st.caption("ℹ️ **Cloud Sandbox Mode**: Search is enabled across the pre-loaded **50 sample candidates**.")
     
     if search_btn:
         results = []
@@ -1595,6 +1603,9 @@ elif st.session_state.current_page == "Candidate Search":
             if not candidates_full:
                 st.warning("Candidate database file (candidates.jsonl) is not available in the cloud deployment. Candidate search is only supported in your local offline workspace.")
                 st.stop()
+            
+            if len(candidates_full) < 1000:
+                st.info("💡 Running search on the pre-loaded 50 sample candidates. To search across the full 100,000 candidate pool, run the application in your local offline workspace.")
             emb_engine = CandidateEmbeddingEngine()
             emb_engine.load_precomputed()
             cids = [c.get("candidate_id") for c in candidates_full]

@@ -6,7 +6,8 @@ __pycache__/
 .ipynb_checkpoints
 
 # Large datasets and caches
-*candidates.jsonl
+candidates.jsonl
+!sample_candidates.jsonl
 __MACOSX/
 .DS_Store
 
