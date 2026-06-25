@@ -24,7 +24,7 @@ team_members:
 # Code and reproducibility
 # ============================================================================
 github_repo: "https://github.com/gopika-20-del/talos-ai.git"
-sandbox_link: "https://huggingface.co/spaces/gopika-arasi/talos-ai"
+sandbox_link: "https://rockers-recruiter.streamlit.app/"
 reproduce_command: "python rank.py --candidates ./[PUB] India_runs_data_and_ai_challenge/[PUB] India_runs_data_and_ai_challenge/India_runs_data_and_ai_challenge/candidates.jsonl" --out "./team_talos.csv"
 
 # ============================================================================
