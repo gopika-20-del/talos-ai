@@ -1,0 +1,502 @@
+{
+  "CAND_0052328": {
+    "rank": 1,
+    "score": 79.3445,
+    "explanation": "6.5 years experience as a Recommendation Systems Engineer, specializing in LoRA, QLoRA, Fine-tuning LLMs. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Observe.AI, Amazon."
+  },
+  "CAND_0007009": {
+    "rank": 2,
+    "score": 79.0693,
+    "explanation": "Demonstrated track record of 7.9 years in backend and systems engineering, with focus on LoRA, Embeddings, QLoRA. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like PolicyBazaar, Wysa."
+  },
+  "CAND_0041669": {
+    "rank": 3,
+    "score": 78.918,
+    "explanation": "Strong Recommendation Systems Engineer with 8.0 years of experience with hands-on experience in FAISS, Semantic Search, Milvus. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Mad Street Den, CRED."
+  },
+  "CAND_0018499": {
+    "rank": 4,
+    "score": 78.3372,
+    "explanation": "Strong Senior Machine Learning Engineer with 7.2 years of experience with hands-on experience in Embeddings, Milvus, QLoRA. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Flipkart, Google."
+  },
+  "CAND_0065195": {
+    "rank": 5,
+    "score": 78.2783,
+    "explanation": "Demonstrated track record of 5.1 years in backend and systems engineering, with focus on QLoRA, Elasticsearch, pgvector. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like CRED, Google."
+  },
+  "CAND_0051004": {
+    "rank": 6,
+    "score": 78.1974,
+    "explanation": "4.7 years experience as a Senior Data Scientist, specializing in LoRA, Embeddings, Semantic Search. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like CRED, Niramai."
+  },
+  "CAND_0075249": {
+    "rank": 7,
+    "score": 78.1808,
+    "explanation": "Demonstrated track record of 6.2 years in backend and systems engineering, with focus on Fine-tuning LLMs, Pinecone, Milvus. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like upGrad, Zomato."
+  },
+  "CAND_0037566": {
+    "rank": 8,
+    "score": 77.9928,
+    "explanation": "Demonstrated track record of 6.9 years in backend and systems engineering, with focus on QLoRA, LoRA, Pinecone. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Paytm, LinkedIn."
+  },
+  "CAND_0041610": {
+    "rank": 9,
+    "score": 77.9642,
+    "explanation": "Demonstrated track record of 6.7 years in backend and systems engineering, with focus on LoRA, Embeddings, Elasticsearch. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Observe.AI, Zoho."
+  },
+  "CAND_0061265": {
+    "rank": 10,
+    "score": 77.6383,
+    "explanation": "Demonstrated track record of 6.6 years in backend and systems engineering, with focus on Embeddings, Milvus, QLoRA. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Observe.AI, Zoho. However, there is a minor concern on 120-day notice period."
+  },
+  "CAND_0077337": {
+    "rank": 11,
+    "score": 77.4289,
+    "explanation": "Strong Staff Machine Learning Engineer with 7.0 years of experience with hands-on experience in Semantic Search, QLoRA, Python. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Glance, Razorpay."
+  },
+  "CAND_0018549": {
+    "rank": 12,
+    "score": 77.4045,
+    "explanation": "Strong Recommendation Systems Engineer with 6.8 years of experience with hands-on experience in Elasticsearch, Milvus, Fine-tuning LLMs. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Uber, Flipkart."
+  },
+  "CAND_0064326": {
+    "rank": 13,
+    "score": 77.38,
+    "explanation": "Demonstrated track record of 7.6 years in backend and systems engineering, with focus on Semantic Search, Milvus, QLoRA. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Apple, Sarvam AI."
+  },
+  "CAND_0069905": {
+    "rank": 14,
+    "score": 77.3552,
+    "explanation": "Demonstrated track record of 6.6 years in backend and systems engineering, with focus on LoRA, Python, Weaviate. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Observe.AI, Sarvam AI. However, there is a minor concern on 90-day notice period."
+  },
+  "CAND_0000031": {
+    "rank": 15,
+    "score": 77.2266,
+    "explanation": "Demonstrated track record of 6.0 years in backend and systems engineering, with focus on Embeddings, Pinecone, Information Retrieval. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Uber, Mad Street Den."
+  },
+  "CAND_0036184": {
+    "rank": 16,
+    "score": 77.1605,
+    "explanation": "6.0 years experience as a Recommendation Systems Engineer, specializing in Embeddings, FAISS, Semantic Search. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like PolicyBazaar, CRED."
+  },
+  "CAND_0028793": {
+    "rank": 17,
+    "score": 77.0945,
+    "explanation": "Strong Search Engineer with 7.2 years of experience with hands-on experience in LoRA, Embeddings, QLoRA. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Meesho, Amazon. However, there is a minor concern on 120-day notice period."
+  },
+  "CAND_0012957": {
+    "rank": 18,
+    "score": 77.0749,
+    "explanation": "4.9 years experience as a Search Engineer, specializing in Embeddings, Fine-tuning LLMs, Python. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Razorpay, Mad Street Den. However, there is a minor concern on 120-day notice period."
+  },
+  "CAND_0079387": {
+    "rank": 19,
+    "score": 76.9526,
+    "explanation": "6.9 years experience as a AI Engineer, specializing in LoRA, QLoRA, Python. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Ola, BYJU'S."
+  },
+  "CAND_0046525": {
+    "rank": 20,
+    "score": 76.9118,
+    "explanation": "6.1 years experience as a Senior Machine Learning Engineer, specializing in Information Retrieval, Elasticsearch, pgvector. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Genpact AI, LinkedIn."
+  },
+  "CAND_0071974": {
+    "rank": 21,
+    "score": 76.8786,
+    "explanation": "Strong Senior AI Engineer with 7.8 years of experience with hands-on experience in LoRA, Embeddings, Elasticsearch. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Meta, Mad Street Den."
+  },
+  "CAND_0031593": {
+    "rank": 22,
+    "score": 76.6817,
+    "explanation": "Strong Search Engineer with 7.8 years of experience with hands-on experience in Embeddings, Elasticsearch. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Unacademy, Genpact AI. However, there is a minor concern on 90-day notice period."
+  },
+  "CAND_0086151": {
+    "rank": 23,
+    "score": 76.6239,
+    "explanation": "Strong Recommendation Systems Engineer with 7.7 years of experience with hands-on experience in LoRA, Embeddings, Elasticsearch. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Glance, Meta. However, there is a minor concern on 120-day notice period."
+  },
+  "CAND_0030348": {
+    "rank": 24,
+    "score": 76.6063,
+    "explanation": "Demonstrated track record of 4.5 years in backend and systems engineering, with focus on Embeddings, Elasticsearch, Python. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like PolicyBazaar, BYJU'S."
+  },
+  "CAND_0026532": {
+    "rank": 25,
+    "score": 76.5719,
+    "explanation": "Demonstrated track record of 4.8 years in backend and systems engineering, with focus on LoRA, Embeddings, FAISS. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Mad Street Den, Zomato. However, there is a minor concern on 90-day notice period."
+  },
+  "CAND_0074225": {
+    "rank": 26,
+    "score": 76.5607,
+    "explanation": "4.3 years experience as a Machine Learning Engineer, specializing in Elasticsearch, Semantic Search, Milvus. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Unacademy, Mad Street Den. However, there is a minor concern on 120-day notice period."
+  },
+  "CAND_0081852": {
+    "rank": 27,
+    "score": 76.3576,
+    "explanation": "5.9 years experience as a Senior Data Scientist, specializing in pgvector, LoRA, Semantic Search. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Mad Street Den, Nykaa."
+  },
+  "CAND_0053695": {
+    "rank": 28,
+    "score": 76.3554,
+    "explanation": "Strong Recommendation Systems Engineer with 5.8 years of experience with hands-on experience in Embeddings, Pinecone, pgvector. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Meesho, Genpact AI."
+  },
+  "CAND_0009024": {
+    "rank": 29,
+    "score": 76.2947,
+    "explanation": "Demonstrated track record of 5.2 years in backend and systems engineering, with focus on LoRA, OpenSearch, FAISS. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Aganitha, Google."
+  },
+  "CAND_0042506": {
+    "rank": 30,
+    "score": 76.2241,
+    "explanation": "Demonstrated track record of 4.2 years in backend and systems engineering, with focus on FAISS, Semantic Search, Milvus. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Meesho, Verloop.io."
+  },
+  "CAND_0093912": {
+    "rank": 31,
+    "score": 76.2203,
+    "explanation": "Demonstrated track record of 5.3 years in backend and systems engineering, with focus on Embeddings, Elasticsearch, Vector Search. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Razorpay, Apple."
+  },
+  "CAND_0088025": {
+    "rank": 32,
+    "score": 76.1103,
+    "explanation": "Strong Staff Machine Learning Engineer with 8.6 years of experience with hands-on experience in LoRA, Elasticsearch, QLoRA. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Genpact AI, Yellow.ai. However, there is a minor concern on 90-day notice period."
+  },
+  "CAND_0086022": {
+    "rank": 33,
+    "score": 76.0003,
+    "explanation": "Demonstrated track record of 5.3 years in backend and systems engineering, with focus on LoRA, Embeddings, Elasticsearch. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Uber, Sarvam AI."
+  },
+  "CAND_0037000": {
+    "rank": 34,
+    "score": 75.9904,
+    "explanation": "Strong Search Engineer with 2.7 years of experience with hands-on experience in Embeddings, Pinecone, Semantic Search. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Unacademy, CRED."
+  },
+  "CAND_0064904": {
+    "rank": 35,
+    "score": 75.9048,
+    "explanation": "4.9 years experience as a AI Engineer, specializing in Embeddings, Elasticsearch, Python. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Freshworks, LinkedIn. However, there is a minor concern on 90-day notice period."
+  },
+  "CAND_0027691": {
+    "rank": 36,
+    "score": 75.8712,
+    "explanation": "6.5 years experience as a NLP Engineer, specializing in LoRA, Embeddings, Semantic Search. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Meta, Vedantu."
+  },
+  "CAND_0002025": {
+    "rank": 37,
+    "score": 75.8133,
+    "explanation": "Strong Senior AI Engineer with 5.9 years of experience with hands-on experience in FAISS, QLoRA, Fine-tuning LLMs. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Apple, Aganitha."
+  },
+  "CAND_0019480": {
+    "rank": 38,
+    "score": 75.7785,
+    "explanation": "Strong NLP Engineer with 2.8 years of experience with hands-on experience in OpenSearch, Milvus. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Meesho, Vedantu. However, there is a minor concern on 90-day notice period."
+  },
+  "CAND_0049538": {
+    "rank": 39,
+    "score": 75.5169,
+    "explanation": "5.8 years experience as a Applied ML Engineer, specializing in Embeddings, Elasticsearch, Milvus. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like PolicyBazaar, Zoho."
+  },
+  "CAND_0091909": {
+    "rank": 40,
+    "score": 75.4263,
+    "explanation": "Strong Machine Learning Engineer with 6.9 years of experience with hands-on experience in QLoRA, OpenSearch, Pinecone. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Meta, Rephrase.ai."
+  },
+  "CAND_0039383": {
+    "rank": 41,
+    "score": 75.4047,
+    "explanation": "7.1 years experience as a Applied ML Engineer, specializing in LoRA, Elasticsearch, FAISS. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Meesho, Swiggy. However, there is a minor concern on 90-day notice period."
+  },
+  "CAND_0054394": {
+    "rank": 42,
+    "score": 75.3703,
+    "explanation": "Strong Recommendation Systems Engineer with 4.1 years of experience with hands-on experience in Fine-tuning LLMs, Embeddings, Pinecone. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like PharmEasy, Netflix."
+  },
+  "CAND_0096142": {
+    "rank": 43,
+    "score": 75.3217,
+    "explanation": "5.0 years experience as a Applied ML Engineer, specializing in LoRA, Python, Pinecone. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like BYJU'S, upGrad. However, there is a minor concern on 120-day notice period."
+  },
+  "CAND_0081686": {
+    "rank": 44,
+    "score": 75.2216,
+    "explanation": "Demonstrated track record of 6.0 years in backend and systems engineering, with focus on Embeddings, FAISS, Semantic Search. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Zoho, Niramai."
+  },
+  "CAND_0081846": {
+    "rank": 45,
+    "score": 75.2025,
+    "explanation": "6.7 years experience as a Lead AI Engineer, specializing in Embeddings, Elasticsearch, Semantic Search. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Razorpay, Paytm."
+  },
+  "CAND_0044222": {
+    "rank": 46,
+    "score": 75.1913,
+    "explanation": "Strong AI Engineer with 7.7 years of experience with hands-on experience in Fine-tuning LLMs, QLoRA, OpenSearch. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like PolicyBazaar, InMobi."
+  },
+  "CAND_0018722": {
+    "rank": 47,
+    "score": 75.1444,
+    "explanation": "6.6 years experience as a Recommendation Systems Engineer, specializing in Python, Weaviate. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Unacademy, Saarthi.ai. However, there is a minor concern on 90-day notice period."
+  },
+  "CAND_0075439": {
+    "rank": 48,
+    "score": 75.0638,
+    "explanation": "Strong Machine Learning Engineer with 4.3 years of experience with hands-on experience in LoRA, Embeddings, Elasticsearch. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Genpact AI, Flipkart."
+  },
+  "CAND_0084819": {
+    "rank": 49,
+    "score": 75.043,
+    "explanation": "4.5 years experience as a Search Engineer, specializing in LoRA, Semantic Search, Information Retrieval. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Razorpay, Dream11. However, there is a minor concern on 120-day notice period."
+  },
+  "CAND_0040887": {
+    "rank": 50,
+    "score": 75.0186,
+    "explanation": "Strong Machine Learning Engineer with 4.7 years of experience with hands-on experience in LoRA, Python, Milvus. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Unacademy, Netflix."
+  },
+  "CAND_0010257": {
+    "rank": 51,
+    "score": 75.0067,
+    "explanation": "6.5 years experience as a Senior Data Scientist, specializing in Milvus, Python, OpenSearch. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like PharmEasy, Google. However, there is a minor concern on 120-day notice period."
+  },
+  "CAND_0046064": {
+    "rank": 52,
+    "score": 74.9482,
+    "explanation": "Demonstrated track record of 8.9 years in backend and systems engineering, with focus on Elasticsearch, Semantic Search, QLoRA. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Salesforce, Amazon."
+  },
+  "CAND_0066376": {
+    "rank": 53,
+    "score": 74.9191,
+    "explanation": "Strong Applied ML Engineer with 5.7 years of experience with hands-on experience in LoRA, FAISS, Semantic Search. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Dream11, Salesforce. However, there is a minor concern on 90-day notice period."
+  },
+  "CAND_0047721": {
+    "rank": 54,
+    "score": 74.8883,
+    "explanation": "7.0 years experience as a Senior Data Scientist, specializing in FAISS, Milvus, Information Retrieval. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Observe.AI, Microsoft. However, there is a minor concern on 90-day notice period."
+  },
+  "CAND_0079284": {
+    "rank": 55,
+    "score": 74.7888,
+    "explanation": "Demonstrated track record of 4.9 years in backend and systems engineering, with focus on QLoRA, Fine-tuning LLMs, Elasticsearch. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Swiggy, Google."
+  },
+  "CAND_0040117": {
+    "rank": 56,
+    "score": 74.7869,
+    "explanation": "6.5 years experience as a Recommendation Systems Engineer, specializing in LoRA, Embeddings, FAISS. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like PhonePe, Salesforce."
+  },
+  "CAND_0062247": {
+    "rank": 57,
+    "score": 74.6446,
+    "explanation": "Strong AI Engineer with 7.3 years of experience with hands-on experience in Information Retrieval, Pinecone, Vector Search. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Dream11, Google."
+  },
+  "CAND_0049896": {
+    "rank": 58,
+    "score": 74.6231,
+    "explanation": "Demonstrated track record of 7.3 years in backend and systems engineering, with focus on Fine-tuning LLMs, Information Retrieval, Vector Search. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Unacademy, Flipkart. However, there is a minor concern on 90-day notice period."
+  },
+  "CAND_0006557": {
+    "rank": 59,
+    "score": 74.6133,
+    "explanation": "Demonstrated track record of 7.9 years in backend and systems engineering, with focus on LoRA, Elasticsearch, FAISS. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Apple, Paytm. However, there is a minor concern on 120-day notice period."
+  },
+  "CAND_0037980": {
+    "rank": 60,
+    "score": 74.5337,
+    "explanation": "9.0 years experience as a Senior Applied Scientist, specializing in LoRA, Information Retrieval Systems, Search Infrastructure. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Salesforce, Niramai."
+  },
+  "CAND_0083307": {
+    "rank": 61,
+    "score": 74.4182,
+    "explanation": "Strong Search Engineer with 7.8 years of experience with hands-on experience in pgvector, Embeddings, Semantic Search. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Ola, CRED. However, there is a minor concern on 120-day notice period."
+  },
+  "CAND_0005260": {
+    "rank": 62,
+    "score": 74.3985,
+    "explanation": "Strong Senior NLP Engineer with 5.2 years of experience with hands-on experience in LoRA, Embeddings, Semantic Search. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Yellow.ai, Netflix."
+  },
+  "CAND_0054123": {
+    "rank": 63,
+    "score": 74.3866,
+    "explanation": "Strong Applied ML Engineer with 4.7 years of experience with hands-on experience in pgvector, Semantic Search, Fine-tuning LLMs. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Meta, CRED."
+  },
+  "CAND_0050876": {
+    "rank": 64,
+    "score": 74.2798,
+    "explanation": "Demonstrated track record of 6.0 years in backend and systems engineering, with focus on FAISS, QLoRA, Python. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Razorpay, Yellow.ai. However, there is a minor concern on 90-day notice period."
+  },
+  "CAND_0006538": {
+    "rank": 65,
+    "score": 74.2691,
+    "explanation": "5.7 years experience as a AI Specialist, specializing in Elasticsearch. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Dream11, PhonePe."
+  },
+  "CAND_0050454": {
+    "rank": 66,
+    "score": 74.1633,
+    "explanation": "6.8 years experience as a AI Engineer, specializing in LoRA, FAISS, QLoRA. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Uber, Adobe."
+  },
+  "CAND_0042029": {
+    "rank": 67,
+    "score": 74.1622,
+    "explanation": "6.5 years experience as a Senior Data Scientist, specializing in Embeddings, Elasticsearch, OpenSearch. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Observe.AI, Flipkart."
+  },
+  "CAND_0030031": {
+    "rank": 68,
+    "score": 74.0822,
+    "explanation": "5.7 years experience as a AI Engineer, specializing in LoRA, Milvus, QLoRA. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Microsoft, Amazon."
+  },
+  "CAND_0068811": {
+    "rank": 69,
+    "score": 74.0455,
+    "explanation": "Strong Applied ML Engineer with 8.0 years of experience with hands-on experience in Embeddings, Pinecone, OpenSearch. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Meesho, Yellow.ai."
+  },
+  "CAND_0036863": {
+    "rank": 70,
+    "score": 74.0197,
+    "explanation": "Demonstrated track record of 4.3 years in backend and systems engineering, with focus on LoRA, OpenSearch, FAISS. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Zoho, Wysa."
+  },
+  "CAND_0072660": {
+    "rank": 71,
+    "score": 73.9945,
+    "explanation": "Demonstrated track record of 7.1 years in backend and systems engineering, with focus on LoRA, Elasticsearch, FAISS. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Unacademy, Adobe."
+  },
+  "CAND_0076251": {
+    "rank": 72,
+    "score": 73.7876,
+    "explanation": "Demonstrated track record of 7.6 years in backend and systems engineering, with focus on Fine-tuning LLMs, Elasticsearch, Semantic Search. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like CRED, Microsoft."
+  },
+  "CAND_0075574": {
+    "rank": 73,
+    "score": 73.773,
+    "explanation": "Demonstrated track record of 5.7 years in backend and systems engineering, with focus on pgvector, Elasticsearch, OpenSearch. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Observe.AI, Genpact AI."
+  },
+  "CAND_0080766": {
+    "rank": 74,
+    "score": 73.7674,
+    "explanation": "Strong Staff Machine Learning Engineer with 8.8 years of experience with hands-on experience in LoRA, Search & Discovery, Elasticsearch. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Haptik, Salesforce."
+  },
+  "CAND_0008425": {
+    "rank": 75,
+    "score": 73.7315,
+    "explanation": "Strong Senior NLP Engineer with 7.8 years of experience with hands-on experience in LoRA, Semantic Search, Python. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Ola, Amazon. However, there is a minor concern on 90-day notice period."
+  },
+  "CAND_0070485": {
+    "rank": 76,
+    "score": 73.6945,
+    "explanation": "6.4 years experience as a Search Engineer, specializing in QLoRA, Information Retrieval, FAISS. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Dream11, Saarthi.ai. However, there is a minor concern on 120-day notice period."
+  },
+  "CAND_0081053": {
+    "rank": 77,
+    "score": 73.6933,
+    "explanation": "Demonstrated track record of 5.4 years in backend and systems engineering, with focus on LoRA, Semantic Search, QLoRA. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Salesforce, Glance. However, there is a minor concern on 90-day notice period."
+  },
+  "CAND_0052682": {
+    "rank": 78,
+    "score": 73.3594,
+    "explanation": "Strong NLP Engineer with 6.6 years of experience with hands-on experience in Embeddings, FAISS, Semantic Search. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Salesforce, Aganitha."
+  },
+  "CAND_0020877": {
+    "rank": 79,
+    "score": 73.352,
+    "explanation": "Demonstrated track record of 5.1 years in backend and systems engineering, with focus on Elasticsearch, Milvus, QLoRA. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like BYJU'S, CRED."
+  },
+  "CAND_0099806": {
+    "rank": 80,
+    "score": 73.3001,
+    "explanation": "Strong AI Engineer with 4.6 years of experience with hands-on experience in LoRA, Embeddings, Elasticsearch. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Mad Street Den, upGrad."
+  },
+  "CAND_0044855": {
+    "rank": 81,
+    "score": 73.2637,
+    "explanation": "6.6 years experience as a Senior Data Scientist, specializing in Embeddings, QLoRA, Pinecone. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Verloop.io, Flipkart."
+  },
+  "CAND_0077285": {
+    "rank": 82,
+    "score": 73.2593,
+    "explanation": "Strong Recommendation Systems Engineer with 5.5 years of experience with hands-on experience in LoRA, Embeddings, FAISS. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Nykaa, upGrad."
+  },
+  "CAND_0003977": {
+    "rank": 83,
+    "score": 73.2577,
+    "explanation": "Strong Recommendation Systems Engineer with 4.6 years of experience with hands-on experience in Embeddings, Semantic Search, Python. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Rephrase.ai, Google."
+  },
+  "CAND_0057563": {
+    "rank": 84,
+    "score": 73.2081,
+    "explanation": "6.8 years experience as a NLP Engineer, specializing in QLoRA, OpenSearch, Elasticsearch. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Zoho, Yellow.ai."
+  },
+  "CAND_0011162": {
+    "rank": 85,
+    "score": 73.1024,
+    "explanation": "Demonstrated track record of 5.8 years in backend and systems engineering, with focus on LoRA, Embeddings, FAISS. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Meesho, Google. However, there is a minor concern on 90-day notice period."
+  },
+  "CAND_0036437": {
+    "rank": 86,
+    "score": 73.0311,
+    "explanation": "Strong Search Engineer with 4.8 years of experience with hands-on experience in Elasticsearch, FAISS, Milvus. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Ola, Nykaa."
+  },
+  "CAND_0098846": {
+    "rank": 87,
+    "score": 73.0304,
+    "explanation": "Strong AI Engineer with 7.6 years of experience with hands-on experience in QLoRA, Qdrant. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Meesho, Swiggy."
+  },
+  "CAND_0074735": {
+    "rank": 88,
+    "score": 73.0115,
+    "explanation": "Strong Applied ML Engineer with 5.5 years of experience with hands-on experience in Elasticsearch, Semantic Search, Information Retrieval. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Netflix, Rephrase.ai. However, there is a minor concern on 90-day notice period."
+  },
+  "CAND_0006418": {
+    "rank": 89,
+    "score": 72.9903,
+    "explanation": "5.7 years experience as a Machine Learning Engineer, specializing in Embeddings, Elasticsearch, Semantic Search. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Flipkart, Verloop.io."
+  },
+  "CAND_0010603": {
+    "rank": 90,
+    "score": 72.9868,
+    "explanation": "Strong ML Engineer with 5.3 years of experience with hands-on experience in OpenSearch, Information Retrieval, pgvector. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like BYJU'S. However, there is a minor concern on 90-day notice period."
+  },
+  "CAND_0070398": {
+    "rank": 91,
+    "score": 72.9495,
+    "explanation": "7.2 years experience as a Machine Learning Engineer, specializing in LoRA, Embeddings, FAISS. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Uber, Mad Street Den. However, there is a minor concern on 120-day notice period."
+  },
+  "CAND_0030827": {
+    "rank": 92,
+    "score": 72.9295,
+    "explanation": "5.4 years experience as a Senior Data Scientist, specializing in Qdrant, Semantic Search, FAISS. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Glance, Freshworks. However, there is a minor concern on 120-day notice period."
+  },
+  "CAND_0095528": {
+    "rank": 93,
+    "score": 72.8588,
+    "explanation": "5.3 years experience as a Senior Data Scientist, specializing in Elasticsearch, Semantic Search, Fine-tuning LLMs. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Adobe, Netflix."
+  },
+  "CAND_0037944": {
+    "rank": 94,
+    "score": 72.7764,
+    "explanation": "4.9 years experience as a Senior Data Scientist, specializing in Embeddings, QLoRA, Python. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like PolicyBazaar, Vedantu."
+  },
+  "CAND_0079064": {
+    "rank": 95,
+    "score": 72.6883,
+    "explanation": "5.2 years experience as a Senior Data Scientist, specializing in Semantic Search, Fine-tuning LLMs, QLoRA. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Razorpay, Niramai. However, there is a minor concern on 120-day notice period."
+  },
+  "CAND_0014440": {
+    "rank": 96,
+    "score": 72.6697,
+    "explanation": "Strong Recommendation Systems Engineer with 6.4 years of experience with hands-on experience in Elasticsearch, FAISS, Milvus. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like CRED, upGrad."
+  },
+  "CAND_0092255": {
+    "rank": 97,
+    "score": 72.6308,
+    "explanation": "5.2 years experience as a ML Engineer, specializing in Semantic Search, OpenSearch, Vector Search. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like HCL, Saarthi.ai."
+  },
+  "CAND_0020708": {
+    "rank": 98,
+    "score": 72.5357,
+    "explanation": "Strong Search Engineer with 4.2 years of experience with hands-on experience in Fine-tuning LLMs, Python, Elasticsearch. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like PolicyBazaar."
+  },
+  "CAND_0043228": {
+    "rank": 99,
+    "score": 72.4166,
+    "explanation": "6.8 years experience as a Applied ML Engineer, specializing in pgvector, OpenSearch, Vector Search. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Zoho, Vedantu."
+  },
+  "CAND_0078492": {
+    "rank": 100,
+    "score": 72.3874,
+    "explanation": "Strong Recommendation Systems Engineer with 5.1 years of experience with hands-on experience in Qdrant, Elasticsearch, FAISS. Matches the 'product over research' profile, showing strong production ML engineering experience, career tenure at product-focused companies like Adobe, Verloop.io."
+  }
+}

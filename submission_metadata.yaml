@@ -1,0 +1,80 @@
+# Redrob Hackathon — Submission Metadata for TALOS AI
+#
+# Filled template mirroring portal metadata for Stage 3 validation.
+
+# ============================================================================
+# Team identity
+# ============================================================================
+team_name: "Rockers"
+
+primary_contact:
+  name: "N.k.Nishant "
+  email: "nknishant5810@gmail.com"
+  phone: "+91-7603808218"
+
+team_members:
+  - name: "Gopika Arasi.V"
+    email: "gopikavenkatesan20@gmail.com"
+    role: "ML Engineer & Lead Architect"
+  - name: "Daniell.A"
+    email: "daniellworkspace5506@gmail.com"
+    role: "Data Scientist & backend developer"
+
+# ============================================================================
+# Code and reproducibility
+# ============================================================================
+github_repo: "https://github.com/gopika-20-del/talos-ai.git"
+sandbox_link: "https://huggingface.co/spaces/gopika-arasi/talos-ai"
+reproduce_command: "python rank.py --candidates ./[PUB] India_runs_data_and_ai_challenge/[PUB] India_runs_data_and_ai_challenge/India_runs_data_and_ai_challenge/candidates.jsonl" --out "./team_talos.csv"
+
+# ============================================================================
+# Compute environment
+# ============================================================================
+compute:
+  platform: "Local Intel Core i7-11800H"
+  cpu_cores: 8
+  ram_gb: 16
+  python_version: "3.11.5"
+  os: "Windows 11 Home"
+  uses_gpu_for_inference: false
+  has_network_during_ranking: false
+  pre_computation_required: true
+  pre_computation_time_minutes: 3.5
+
+# ============================================================================
+# AI tools declaration
+# ============================================================================
+ai_tools_used:
+  - "Claude"
+  - "Gemini"
+
+ai_usage_summary: |
+  Used Gemini for codebase planning and architecture design. Used Claude for coding modules,
+  refactoring, and formatting explainability and Trust & Risk logic. No candidate data was
+  shared with any hosted LLM.
+
+# ============================================================================
+# Approach summary (optional but recommended)
+# ============================================================================
+methodology_summary: |
+  TALOS AI implements a modular, multi-stage retrieval and ranking pipeline.
+  1. Fast Retrieval (Sparse search): Uses a TF-IDF index and profile filters (production
+     ML keywords, stability analytics, notice period, and relocation fits) to retrieve
+     the top 8,000 candidates and completely override/eliminate 2,381 honeypots and
+     consulting-only candidates. This takes only 10 seconds.
+  2. Dense Match: Generates dense embeddings (all-MiniLM-L6-v2) for the 8,000 candidates to
+     compute semantic similarities, compressing disk storage to 15 MB and online ranking
+     to under 5 seconds.
+  3. ML Ranker: Trains a LightGBM regressor on engineered candidate features against hybrid
+     scoring targets to output a smooth, robust model.
+  4. Explainability: Generates factual recruiter summaries (0% hallucination rate).
+
+# ============================================================================
+# Declarations
+# ============================================================================
+declarations:
+  read_submission_spec: true
+  code_is_original_work: true
+  no_collusion: true
+  honeypot_check_done: true
+  reproduction_tested: true

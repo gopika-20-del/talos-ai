@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints
+
+# Large datasets and caches
+*candidates.jsonl
+__MACOSX/
+.DS_Store
+
+# IDE and local config
+.gemini/
+.idea/
+.vscode/
