@@ -1592,6 +1592,9 @@ elif st.session_state.current_page == "Candidate Search":
         results = []
         with st.spinner("Searching candidate database..."):
             candidates_full = get_cached_candidates()
+            if not candidates_full:
+                st.warning("Candidate database file (candidates.jsonl) is not available in the cloud deployment. Candidate search is only supported in your local offline workspace.")
+                st.stop()
             emb_engine = CandidateEmbeddingEngine()
             emb_engine.load_precomputed()
             cids = [c.get("candidate_id") for c in candidates_full]

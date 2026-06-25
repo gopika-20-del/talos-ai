@@ -12,7 +12,7 @@ logger = logging.getLogger("TalosAI")
 
 def find_data_dir():
     """
-    Finds the data directory containing candidates.jsonl recursively in the workspace.
+    Finds the data directory containing outputs/top_100_candidates.csv recursively in the workspace.
     """
     check_paths = [
         Path("./[PUB] India_runs_data_and_ai_challenge/[PUB] India_runs_data_and_ai_challenge/India_runs_data_and_ai_challenge"),
@@ -21,26 +21,32 @@ def find_data_dir():
     ]
     
     for p in check_paths:
-        if (p / "candidates.jsonl").exists():
+        if (p / "outputs" / "top_100_candidates.csv").exists():
             return p.resolve()
             
     # Recursive search
-    for p in Path(".").rglob("candidates.jsonl"):
-        return p.parent.resolve()
+    for p in Path(".").rglob("top_100_candidates.csv"):
+        return p.parent.parent.resolve()
         
     # Check parent workspace
     parent_workspace = Path("C:/Users/Gopika Arasi/OneDrive/Documents/Desktop/indiarun")
-    for p in parent_workspace.rglob("candidates.jsonl"):
-        return p.parent.resolve()
+    for p in parent_workspace.rglob("top_100_candidates.csv"):
+        return p.parent.parent.resolve()
         
-    raise FileNotFoundError("Could not locate candidates.jsonl in workspace.")
+    raise FileNotFoundError("Could not locate outputs/top_100_candidates.csv in workspace.")
 
 def load_candidates(limit=None):
     """
     Memory-efficient generator that yields candidate profiles one by one.
     """
-    data_dir = find_data_dir()
-    candidates_file = data_dir / "candidates.jsonl"
+    try:
+        data_dir = find_data_dir()
+        candidates_file = data_dir / "candidates.jsonl"
+        if not candidates_file.exists():
+            raise FileNotFoundError("candidates.jsonl file not found.")
+    except FileNotFoundError:
+        logger.warning("candidates.jsonl not found. Load candidates generator is disabled.")
+        return
     
     logger.info(f"Loading candidates from {candidates_file}")
     
